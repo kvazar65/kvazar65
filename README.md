@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kvazar65
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning android
+-
 
 
 <!---
